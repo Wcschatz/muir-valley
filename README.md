@@ -15,7 +15,7 @@ A visitor can find the Historic Entrance in streamless valley within quarter-mil
 
 ### Interactive Map of Muir Valley's climbing wall locations
 ![Mapbox map of Muir Valley](images/mapbox.jpg)
-*A map of Muir Valley created using Mapbox Studio [Mapbox link](mapbox.html)*
+*A map of Muir Valley created using Mapbox Studio [Mapbox link](mapbox/index.html)*
 
 Between these 25 rock walls there are over 400 climbing routes, primarily consisting of sport and trad climbs, drawing in a large number of climbers throughout the year.
 
